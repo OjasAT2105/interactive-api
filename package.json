@@ -15,7 +15,8 @@
 		"start": "wp-scripts start --experimental-modules"
 	},
 	"dependencies": {
-		"@wordpress/interactivity": "latest"
+		"@wordpress/interactivity": "latest",
+		"react-color": "^2.19.3"
 	},
 	"files": [
 		"[^.]*"
